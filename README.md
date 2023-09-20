@@ -1,2 +1,3 @@
 # zivotopis
-1. úkol 
+1. úkol - životopis
+
