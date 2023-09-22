@@ -6,3 +6,8 @@ Samozřejmě si můžeš zvolit libovolné barvy zcela podle sebe.
 #9c8175 - linka nad menu
 #fff1e6 - pozadí 1 sekcí O mně a Turistický průvodce
 #f9e3d0 - pozadí 2 sekcí Fotogalerie a Kontakt
+
+#92794F - patička, menu
+#DDCAB2 - ?
+#C3B090 - písmo
+#F1ECE4 - pozadí stránky
