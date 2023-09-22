@@ -1,13 +1,59 @@
 body {
-    color: #282425;
-    background-color: #f8f2ea;
+    color: rgb(37, 34, 34);
+    background-color: white;
+    font-size: 20px;
+    line-height: 1.5;
+    font-weight: normal;
+    font-family: 'Victor Mono', monospace;
+    font-style: normal;
+    
 }
+    
 
 h1,
 h2, 
 h3,
 a
  {
-    color: #282425;
-    }
+    color: rgb(132, 98, 165);
+    font-family: 'Blinker', sans-serif;
+    font-style: italic;
+    line-height: 1.5;
+ }
+h1 { 
+    font-size: 80px;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Victor Mono', monospace;
+    font-weight: normal;
+}
 
+h2 {
+    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+    font-family: 'Blinker', sans-serif;
+    font-weight: normal;
+}
+
+.hlavicka,
+.kontakt {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.paticka {
+    background-color: rgb(96, 37, 151);
+    color: rgb(245, 243, 241);
+    text-align: left;
+ 
+}
+
+.foto-portret {
+    width: 400px;
+    border: 3px solid white;
+    border-radius: 20px 30px 40px 0;
+    
+}
+.material-symbols-outlined {
+    line-height: 0.5;
+}
